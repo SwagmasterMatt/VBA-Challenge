@@ -1,6 +1,6 @@
 # VBA-Challenge
 
-GlobalsColor.Bas is a necessary subroutine that is required to be inserted.
+GlobalsColor.Bas is a necessary module for the subroutine CallColors to function. It generates public variables and is a portable module I made for use in any VBA scripting.
 Snips verify the start and end of the procedural generation of summaries. 
 results for greatest values genereated by VBA and verified for accuracy with spot checks through manual calculations and excel Min / Max formuals in a separate workbook.
 
